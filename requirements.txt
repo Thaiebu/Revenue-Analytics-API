@@ -2,3 +2,5 @@ fastapi
 uvicorn
 pandas
 python-dateutil
+pytest 
+pytest-asyncio
