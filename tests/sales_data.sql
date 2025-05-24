@@ -1,0 +1,5 @@
+CREATE TABLE revenue (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    amount FLOAT NOT NULL,
+    date TEXT NOT NULL
+);
